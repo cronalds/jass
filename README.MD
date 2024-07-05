@@ -1,3 +1,5 @@
+# jass: "Javascripts Abstracted Styling Solution"
+
 use functions to do stuff like scss but make it simpler and/or more flexible(if it cant be simple at least make it easy to use and well documented)
 
 stuff i usually use scss for:
